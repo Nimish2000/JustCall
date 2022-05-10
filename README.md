@@ -8,9 +8,9 @@ An Android Application for fetching Contact Number by Text Message.
 
 
 ## Screenshots
-<img src="https://user-images.githubusercontent.com/67151054/167630766-cd5b0d78-e627-4afc-87d2-b42be0117fa4.jpeg" alt="Your image title" width="250" hspace="48"/><img src="https://user-images.githubusercontent.com/67151054/167613965-cef9d23b-5ec2-45bd-b933-113eeb95b3d5.jpeg" alt="Your image title" width="250" hspace="128"/> 
+<img src="https://user-images.githubusercontent.com/67151054/167630766-cd5b0d78-e627-4afc-87d2-b42be0117fa4.jpeg" alt="Your image title" width="250" hspace="48"/><img src="https://user-images.githubusercontent.com/67151054/167613965-cef9d23b-5ec2-45bd-b933-113eeb95b3d5.jpeg" alt="Your image title" width="250" hspace="98"/> 
 <img src="https://user-images.githubusercontent.com/67151054/167630731-9dee4895-9b5d-40b2-ae63-4721385661d9.jpeg" alt="Your image title" width="250" hspace="48"/> 
-<img src="https://user-images.githubusercontent.com/67151054/167632466-978dbae0-50a7-4bd9-b746-63e7844d1a8c.jpeg" alt="Your image title" width="250" hspace="128"/> 
+<img src="https://user-images.githubusercontent.com/67151054/167632466-978dbae0-50a7-4bd9-b746-63e7844d1a8c.jpeg" alt="Your image title" width="250" hspace="98"/> 
 
  
 ## Demo
