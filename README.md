@@ -8,8 +8,8 @@ An Android Application for fetching Contact Number by Text Message.
 
 
 ## Screenshots
-<img src="https://user-images.githubusercontent.com/67151054/167613965-cef9d23b-5ec2-45bd-b933-113eeb95b3d5.jpeg" alt="Your image title" width="250" hspace="150"/> <img src="https://user-images.githubusercontent.com/67151054/167612907-4f4be72c-1096-4110-bcc4-878b9d672333.gif" alt="Your image title" width="250"/> 
-
+<img src="https://user-images.githubusercontent.com/67151054/167630766-cd5b0d78-e627-4afc-87d2-b42be0117fa4.jpeg" alt="Your image title" width="250" hspace="48"/><img src="https://user-images.githubusercontent.com/67151054/167613965-cef9d23b-5ec2-45bd-b933-113eeb95b3d5.jpeg" alt="Your image title" width="250" hspace="62"/> <img src="https://user-images.githubusercontent.com/67151054/167630731-9dee4895-9b5d-40b2-ae63-4721385661d9.jpeg" alt="Your image title" width="250"/> 
+ 
 ## Demo
 
 Full working Demo -> https://github.com/Nimish2000/JustCall.git
