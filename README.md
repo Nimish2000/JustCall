@@ -6,11 +6,9 @@ An Android Application for fetching Contact Number by Text Message.
 **Client:** Flutter, Dart
 
 
+
 ## Screenshots
-![App Screenshot](https://via.placeholder.com/180x300?text=App+Screenshot+Here) 
-
-
-![App Screenshot](https://via.placeholder.com/180x300?text=App+Screenshot+Here) 
+<img src="https://user-images.githubusercontent.com/67151054/167613965-cef9d23b-5ec2-45bd-b933-113eeb95b3d5.jpeg" alt="Your image title" width="250"/> <img src="https://user-images.githubusercontent.com/67151054/167612907-4f4be72c-1096-4110-bcc4-878b9d672333.gif" alt="Your image title" width="250"/> 
 
 ## Demo
 
